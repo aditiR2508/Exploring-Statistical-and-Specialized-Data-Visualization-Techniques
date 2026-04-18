@@ -73,33 +73,30 @@ ________________________________________
 #### Applications: Income, loan amount, credit score.
 
 # Dataset Used:
-Example datasets may include:
-•	Student performance dataset 
-•	Sales and profit dataset 
-•	Banking/loan approval dataset 
-•	Customer segmentation dataset 
-•	Text feedback dataset 
+### In this experiment, two different datasets were used:
+### •	Sales and profit dataset  
+### •	Customer segmentation dataset
 ________________________________________
-Observations:
-•	Boxplots identified outliers clearly. 
-•	Heatmaps showed strong and weak correlations using colors. 
-•	Bubble plots represented three variables simultaneously. 
-•	Treemaps showed part-to-whole comparisons effectively. 
-•	Dendrogram displayed cluster formation. 
-•	WordCloud highlighted most frequent words. 
-•	Geospatial plots helped understand location-based patterns. 
+# Observations:
+### •	Boxplots identified outliers clearly. 
+### •	Heatmaps showed strong and weak correlations using colors. 
+### •	Bubble plots represented three variables simultaneously. 
+### •	Treemaps showed part-to-whole comparisons effectively. 
+### •	Dendrogram displayed cluster formation. 
+### •	WordCloud highlighted most frequent words. 
+### •	Geospatial plots helped understand location-based patterns. 
 ________________________________________
-Applications:
-•	Business Intelligence 
-•	Statistical Analysis 
-•	Customer Analytics 
-•	Education Performance Tracking 
-•	Banking Risk Analysis 
-•	Social Media Analytics 
-•	Geographic Analysis 
+# Applications:
+### •	Business Intelligence 
+### •	Statistical Analysis 
+### •	Customer Analytics 
+### •	Education Performance Tracking 
+### •	Banking Risk Analysis 
+### •	Social Media Analytics 
+### •	Geographic Analysis 
 
-Result:
-Various statistical and specialized visualization techniques were studied and successfully implemented using Python tools.
+# Result:
+### Various statistical and specialized visualization techniques were studied and successfully implemented using Python tools.
 
-Conclusion:
-Statistical and specialized charts provide deeper insights than basic charts. They are useful for understanding distributions, clusters, text frequency, relationships, and geographical patterns, making them essential for real-world data analysis.
+# Conclusion:
+### Through this experiment, we have studied various statistical and specialized charts which provided deeper insights than basic charts. They are useful for understanding distributions, clusters, text frequency, relationships and geographical patterns, making them essential for real-world data analysis.
